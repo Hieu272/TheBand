@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../f8code_htmlcss"
+        },
+        {
+            "path": "../Btvn_html"
+        },
+        {
+            "path": "../F8_shopee"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "F8_shopee"
+    }
+}
